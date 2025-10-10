@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         
 // @namespace    http://tampermonkey.net/
