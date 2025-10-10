@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         
 // @namespace    http://tampermonkey.net/
-// @version      0.0.0
+// @version      0.0.3
 // @description  Economy Simulator Overhaul Plugin (Dev)
 // @author       isabella
 // @match        https://ecsr.io/*
