@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Loader
 // @namespace    http://tampermonkey.net/
-// @version      2025-10-09
-// @author       Bella
+// @version      0.0.0
+// @author       ravegirls
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
