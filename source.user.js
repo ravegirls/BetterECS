@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetterECS
 // @namespace    http://tampermonkey.net/
-// @version      0.0.16
+// @version      0.0.17
 // @description  Economy Simulator Overhaul Plugin (Dev)
 // @author       isabella
 // @match        https://ecsr.io/*
