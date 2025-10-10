@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Loader
 // @namespace    http://tampermonkey.net/
+// @description  BetterECS Loader/Installer
 // @version      0.0.0
 // @author       ravegirls
 // @match        https://*/*
