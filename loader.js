@@ -7,8 +7,8 @@
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.js
-// @downloadURL  https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.js
+// @updateURL    https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.user.js
+// @downloadURL  https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.user.js
 // ==/UserScript==
 
 (function() {
