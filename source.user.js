@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetterECS
 // @namespace    http://tampermonkey.net/
-// @version      0.0.8
+// @version      0.0.9
 // @description  Economy Simulator Overhaul Plugin (Dev)
 // @author       isabella
 // @match        https://ecsr.io/*
@@ -11,6 +11,7 @@
 // @grant        GM_getResourceURL
 // @grant        GM_getResourceText
 // @grant        GM_deleteValue
+// @grant        GM_xmlhttpRequest
 // @updateURL    https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.user.js
 // @downloadURL  https://raw.githubusercontent.com/ravegirls/BetterECS/refs/heads/main/source.user.js
 // @resource     notify https://cdn.pixabay.com/download/audio/2025/06/22/audio_76f254e734.mp3?filename=new-notification-014-363678.mp3
